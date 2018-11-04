@@ -6,7 +6,7 @@ A Library to download music from Youtube , Soundcloud and many others sites. It 
 
 Make sure you're using `python3` and have `pip` installed and enabled. On the command line, simply run:
 
-`pip install pydl`
+`pip install pydl_dl`
 
 
 ## Usage
