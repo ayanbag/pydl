@@ -1,6 +1,6 @@
 # Pydl
 
-A Library to download music from Youtube , Soundcloud and many others sites. It is still in devolopment.\
+A Tool to download music from Youtube , Soundcloud and many others sites. It is still in devolopment.\
 
 ## Installation
 
